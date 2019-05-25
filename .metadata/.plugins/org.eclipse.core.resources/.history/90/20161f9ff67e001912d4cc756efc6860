@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+ <div class="row">
+<h1>Lighter, Secondary Text</h1>
+ <p>The small element is used to create a lighter,
+secondary text in any heading:</p>
+ <h1>h1 heading <small>secondary
+text</small></h1> </div> <hr>
+
+<div class="row">
+<h1>Highlight Text</h1>
+ <p>Use the mark element to
+<mark>highlight</mark> text.</p>
+ </div>
+ <hr>
+</body>
+</html>
